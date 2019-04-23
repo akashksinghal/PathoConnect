@@ -13,6 +13,13 @@ It will also help the doctors to quickly analyze the disease and will help to de
 PLATFORM
 : WINDOWS 10
 
+Front End : C++
+Database : MySQL Server using localhost(at present)
+
+Details of Databases:
+1. Diagnostic Centers - It comprises all the information about diagnostic centres.
+2. Blood Tests - It comprises all the information about blood tests.
+3. Patients - It comprises all the information about patients (including their DOB,contact, password, etc ).
 
 ONLINE DIAGNOSTIC CHECKUP SYSTEM
 
