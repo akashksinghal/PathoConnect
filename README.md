@@ -19,10 +19,9 @@ ONLINE DIAGNOSTIC CHECKUP SYSTEM
 USER MANUAL
 
 1. Open the Folder “PathoConnect"
-2. Now install Xamp & CodeBlocks software from “Source Code &
-Required Softwares & Header Files”.
+2. Now install Xamp & CodeBlocks software.
 3. After both the softwares are installed.
-4. Now Copy all the header files from the “mysqlheaders” and
+4. Now Copy all the header files from the “mysqlheaders” of "Required Header Files" and
 5. paste these files to
 “C:\ProgramFiles(x86)\CodeBlocks\MinGW\include”.
 6. Copy the “libmysql.a” file and paste it to “C:\Program
