@@ -1,4 +1,3 @@
-/*
 # PathoConnect
 This software system will be a Medical Diagnostic System for common man . 
 This system will be designed to immediately diagnose by providing tools to assist the patient , 
@@ -8,7 +7,7 @@ Diagnostic centre and give reports about that person that is easy to understand 
 More specifically, this system will analyze every symptom and give a complete report of his illness .
 This software will keep a complete record of the patients history and his medical problems . 
 It will also help the doctors to quickly analyze the disease and will help to decide the medicine for that illness.
-*/
+
 
 PLATFORM
 : WINDOWS 10
@@ -28,8 +27,8 @@ USER MANUAL
 1. Open the Folder “PathoConnect"
 2. Now install Xamp & CodeBlocks software.
 3. After both the softwares are installed.
-4. Now Copy all the header files from the “mysqlheaders” of "Required Header Files" and
-5. paste these files to
+4. Now Copy all the header files from the “mysqlheaders”
+5. Paste the above copied files to
 “C:\ProgramFiles(x86)\CodeBlocks\MinGW\include”.
 6. Copy the “libmysql.a” file and paste it to “C:\Program
 Files(x86)\CodeBlocks\MinGW\lib”.
